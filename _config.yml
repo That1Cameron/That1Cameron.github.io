@@ -42,9 +42,11 @@ linkedin_username: cameron-kozlay-a65445278
 #   instance: example.com
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima@3cdd14d
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 minima:
     skin: dark
