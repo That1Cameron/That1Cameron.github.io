@@ -1,9 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-04-08 19:52:50 -0400
-categories: jekyll update
+title:  "Initial post and my opinion of Jekyll"
+date:   2024-05-05 02:42:31 -0400
+categories: update
 ---
+This is the first "Post" on my githubpages. Im using this to document the projects that I work on. Overall Jekyll seems like a generally accessable tool but I have some issues with it, more specifically with its inegration with github pages. Github provides a very small selection for the remote themes. Also the difficulty with editing theme build files is a lttle frustraiting as if there is something that I want to change about this theme I cant easily do that due to githubs implementation of the remote themes.
+
+
+
+Below is the Jekyll post template just so that I have it for future reference 
+
+---------------------------------------------------------------------------------------
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

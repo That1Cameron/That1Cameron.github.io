@@ -1,5 +1,0 @@
-User-agent: Googlebot        # all Google services
-Allow: /    
-
-User-agent: *                # any robot
-Disallow: /

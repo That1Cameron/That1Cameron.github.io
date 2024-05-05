@@ -1,5 +1,0 @@
-Contact: https://github.com/That1Cameron/That1Cameron.github.io/security
-Expires: 2031-01-01T04:59:00.000Z
-Acknowledgments: https://that1cameron.github.io/hall-of-fame.html
-Preferred-Languages: en
-Canonical: https://that1cameron.github.io/security.txt
