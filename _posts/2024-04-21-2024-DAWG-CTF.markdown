@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "2024 DawgCTF"
+date:   2024-04-21 22:00:00 -0400
+categories: CTF Writing
+---
+In this post I want to talk a little bit about the challenges that I authored for the 2024 DawgCTF. This is a CTF event held every year by the UMBC CyberDawgs. As a newer member on the team who has found a liking to reverse engineering challenges I found myself excited to help out the team and write some challenges for the event. 
+
+When asked what challenges were needed I was told we were lacking WEB challenges. When learning this I decided I would make 2 challenges, 1 a web exploit challenge and 1 as a reverse engineering challenge. Below is a little bit about each. Here is a link to the [repo][Dawg-Repo] if you want to look at the challenges, from here on out are spoilers to the challenges.
+
+## Web Exploit Challenge
+Web exploit and web dev are not my specialty. I wanted to use this challenge as an excuse learn more webdev techniques. I decided to not over assume my ability and chose to make the challenge a more simple cookie based exploit. The total challenge was made up of a free AWS server running a Nodejs server. I like how easy Nodejs was to use. I was everything I needed to put together a lightweight server. The server has a main page for an online cookie store, a robots.txt page that mentioed an admin page, and an admin page that required cookie authentication to be served. I also provided a dump of a firefox browser that included a valid admin cookie but it was out of date. To beat this challenge the competitor needed to find the cookies within the firefox dump and create a valid cookie within their browser that was formatted as the one found previous.
+
+## Reverse Engineering Challenge
+This challnge was heavily inspired by classic CrackMe challenges. These challenges are derivatives of the old practice of cracking programs. This worked by exploiting the built in authentication method of early software releases. This authentication usually consisted of purchasing the software, uppon doing so users would get a key that was actually a hash of the username they provided on purchase. Uppon activation users would have to enter this key and their username, if the key was found to be the correct hash result it is a valid key. What people would do is reverse engineer these authenticators to print out the valid hash of a given username. In my challenge the user has to generate a valid key that is in turn used to decrypt an AES encrypted file.
+
+
+
+
+---------------------------------------------------------------------------------------
+
+[Dawg-Repo]: https://github.com/That1Cameron/DawgCTF2024

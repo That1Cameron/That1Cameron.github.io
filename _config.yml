@@ -24,22 +24,23 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is just a side project. I am planning on storing blog style posts that catalogue and display some of my side projects. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  That1Cameron
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-linkedin_username: cameron-kozlay-a65445278
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
+social_links:
+  github_username:  That1Cameron
+  # dribbble_username: jekyll
+  # facebook_username: jekyll
+  # flickr_username: jekyll
+  # instagram_username: jekyll
+  linkedin_username: cameron-kozlay-a65445278
+  # pinterest_username: jekyll
+  # youtube_username: jekyll
+  # googleplus_username: +jekyll
 
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
+  # Mastodon instances
+  # mastodon:
+  # - username: jekyll
+  #   instance: example.com
+  # - username: jekyll2
+  #   instance: example.com
 
 # Build settings
 # theme: minima
@@ -49,7 +50,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-    skin: dark
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
