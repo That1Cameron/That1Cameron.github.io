@@ -4,7 +4,7 @@ title:  "Competitions"
 date:   2024-05-07 13:24:31 -0400
 categories: Competitions CTF CDE
 ---
-I am using this post to catologue all of the Cyber competitions that I have partaken in.
+## I am using this post to catologue all of the Cyber competitions that I have partaken in.
 
 ---------------------------------------------------------------------------------------
 
