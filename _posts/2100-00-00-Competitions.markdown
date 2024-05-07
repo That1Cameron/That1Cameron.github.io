@@ -13,8 +13,10 @@ categories: Competitions CTF CDE
 * MACCDC 2024 Qualifiers (5th of 40)
     - Specialized in Firewall and Router management
 
+
 * MACCDC 2024 Regionals (5th of 10)
     - Specialized in Firewall and Router management
+
 
 * 175CTF (15th of 212)
 
