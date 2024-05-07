@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resume"
+title:  "Competitions"
 date:   2024-05-07 13:24:31 -0400
 categories: Competitions CTF CDE
 ---
