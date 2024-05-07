@@ -4,7 +4,7 @@ title:  "Initial post and my opinion of Jekyll"
 date:   2024-05-05 02:42:31 -0400
 categories: update
 ---
-This is the first "Post" on my githubpages. Im using this to document the projects that I work on. Overall Jekyll seems like a generally accessable tool but I have some issues with it, more specifically with its inegration with github pages. Github provides a very small selection for the remote themes. Also the difficulty with editing theme build files is a lttle frustraiting as if there is something that I want to change about this theme I cant easily do that due to githubs implementation of the remote themes.
+This is the first "Post" on my githubpages. Im using this to document the projects that I work on. Overall Jekyll seems like a generally accessable tool but I have some issues with it, more specifically with its inegration with github pages. Github provides a very small selection for the remote themes. Also the difficulty with editing theme build files is a lttle frustraiting as if there is something that I want to change about this theme I cant easily do that due to githubs implementation of the remote themes. I am going to retroactively make some posts about recent projects that I can accuratly document. 
 
 
 

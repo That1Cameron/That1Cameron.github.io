@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Resume"
+date:   Current
+categories: Resume Job
+---
+Below is my resume.
+<object data="https://that1cameron.github.io/resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://that1cameron.github.io/resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://that1cameron.github.io/resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
