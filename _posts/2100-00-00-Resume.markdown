@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Resume"
-date:   2024-05-05 02:42:31 -0400
+date:   2024-05-07 13:24:31 -0400
 categories: Resume Job
 ---
-Below is my resume.
-<object data="https://that1cameron.github.io/resume.pdf" type="application/pdf" width="700px" height="700px">
+Below is my resume. I will come back to this page and update it when necessary. 
+
+<object data="https://that1cameron.github.io/resume.pdf" type="application/pdf" width="1000px" height="1000px">
     <embed src="https://that1cameron.github.io/resume.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://that1cameron.github.io/resume.pdf">Download PDF</a>.</p>
     </embed>
